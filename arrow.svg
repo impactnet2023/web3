@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="7px" viewBox="0 0 10 7" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <title>angle-right-b</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page_New" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="home-" transform="translate(-1142.000000, -42.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="Group-2" transform="translate(1002.000000, 35.000000)">
+                <g id="angle-right-b" transform="translate(145.000000, 10.250000) rotate(90.000000) translate(-145.000000, -10.250000) translate(142.000000, 5.000000)">
+                    <path d="M5.655,4.7175 L1.41,0.48 C1.26917505,0.338015512 1.07747815,0.258151257 0.8775,0.258151257 C0.677521848,0.258151257 0.48582495,0.338015512 0.345,0.48 C0.054207304,0.772528091 0.054207304,1.24497191 0.345,1.5375 L4.0575,5.2875 L0.345,9 C0.054207304,9.29252809 0.054207304,9.76497191 0.345,10.0575 C0.485303577,10.2006417 0.677065578,10.2816679 0.8775,10.2825 C1.07793442,10.2816679 1.26969642,10.2006417 1.41,10.0575 L5.655,5.82 C5.80890839,5.67801331 5.89644967,5.47814917 5.89644967,5.26875 C5.89644967,5.05935083 5.80890839,4.85948669 5.655,4.7175 Z" id="Path"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
